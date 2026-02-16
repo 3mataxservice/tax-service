@@ -1,26 +1,2 @@
-tax-service/
-├─ index.html
-├─ style.css
-├─ script.js
-└─ images/
-    ├─ logo.png
-    ├─ hero-banner.jpg
-    ├─ service1.png
-    ├─ service2.png
-    ├─ service3.png
-    ├─ facebook.png
-    ├─ twitter.png
-    └─ linkedin.png
-tax-service/
-├─ index.html
-├─ style.css
-├─ script.js
-└─ images/
-    ├─ logo.png           ← 3Ma Tax Service logo
-    ├─ hero-banner.jpg    ← combined office + finance + abstract
-    ├─ service1.png       ← Tax Filing icon
-    ├─ service2.png       ← Tax Planning icon
-    ├─ service3.png       ← Consultation icon
-    ├─ facebook.png       ← social icon
-    ├─ twitter.png        ← social icon
-    └─ linkedin.png       ← social icon
+index.html
+style.css
